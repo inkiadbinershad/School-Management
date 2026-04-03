@@ -1,0 +1,15 @@
+{
+  "name": "apexiums-school-management",
+  "version": "1.0.0",
+  "description": "Production-ready School Management System - Vercel Frontend + Render Backend",
+  "scripts": {
+    "dev": "node init && serve . -p 3001",
+    "preview": "serve . -p 4173",
+    "deploy": "vercel --prod"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Apexiums System",
+  "license": "MIT"
+}
